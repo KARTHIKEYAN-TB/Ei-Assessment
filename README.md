@@ -147,13 +147,3 @@ Time format: HH:mm (24-hour format).
 Tasks cannot overlap.
 
 Data is not persisted (in-memory only).
-
-# Purpose of Repository
-
-This repository demonstrates:
-
-Practical use of design patterns in Java.
-
-Writing modular, reusable, and maintainable code.
-
-Applying OOP & SOLID principles in real-world scenarios.
